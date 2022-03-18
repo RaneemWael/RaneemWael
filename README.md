@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @RaneemWael. I'm a student in my last year of studying computer science and I am abolutely loving it!
+
 - 👀 I’m mostly interested in participating in unity based projects, whether they be games, websites or mobile applications.
+- I excel at developing games, applications and websites using C# and Unity.
+- However, I also enjoy coding in Java and have implemented a decent amount of projects in Eclipse.
+- Of the most noticeable Unity projects, you can find the "Serious Game for Detecting Social Processing Deficits" and the "Simplified Apex Legends" games.
+- In regards to the projects implemented in Java; "Database Engine" and "AI Matrix Plan Generator" are two of which I believe to be my best work.
+
 - 🌱 I’m currently learning flutter to further develop my coding skills.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me? You can email me at raneemwael99@gmail.com anytime!
