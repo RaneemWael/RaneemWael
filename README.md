@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RaneemWael. I'm a student in my last year of studying computer science and I am abolutely loving it!
+- 👋 Hi, I’m @RaneemWael. I am a Conputer Science and Engineering undergraduate. I am currently working as a teaching assistant at The German University in Cairo.
 
-- 👀 I’m mostly interested in participating in unity based projects, whether they be games, websites or mobile applications.
+- 👀 I am mostly interested in participating in unity based projects, whether they be games, websites or mobile applications.
   - I excel at developing games, applications and websites using C# and Unity.
   - However, I also enjoy coding in Java and have implemented a decent amount of projects in Eclipse.
   - Of the most noticeable Unity projects, you can find the "Serious Game for Detecting Social Processing Deficits" and the "Simplified Apex Legends" games.
