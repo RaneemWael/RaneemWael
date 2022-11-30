@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaneemWael. I'm a Conputer Science and Engineering undergraduate currently working as a teaching assistant at The German University in Cairo.
+- 👋 Hi, I’m @RaneemWael. I'm a Computer Science and Engineering undergraduate currently working as a teaching assistant at The German University in Cairo.
 
 - 👀 I'm mostly interested in participating in unity based projects, whether they be games, websites or mobile applications.
   - I excel at developing games, applications and websites using C# and Unity.
