@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaneemWael. I'm a Computer Science and Engineering undergraduate currently working as a Bid Associate at Saudi Azm.
+- 👋 Hi, I’m @RaneemWael. I'm a Computer Science and Engineering undergraduate currently working as a Bid Manager at Saudi Azm.
 
 - 👀 I'm mostly interested in participating in unity based projects, whether they be games, websites or mobile applications.
   - I excel at developing games, applications and websites using C# and Unity.
